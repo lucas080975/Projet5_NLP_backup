@@ -1,0 +1,12 @@
+pandas
+numpy
+matplotlib
+seaborn
+nltk
+beautifulsoup4
+sklearn
+jupyter
+unicode
+tensorflow
+gensim
+pyLDAvis
