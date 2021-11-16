@@ -2,3 +2,8 @@ venv/
 .venv
 .ipynb_checkpoints
 ipynb_checkpoints/
+.NN_tag
+NN_tag/
+NN_tag_weight.data-00000-of-00001
+NN_tag_weight.index
+checkpoint
